@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Pranshu Scripts\Highscore_Manager.cs">
+    <Files>
+      <File FileName="Assets\Pranshu Scripts\Level_Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Pranshu Scripts\Collision_Tracker.cs" Line="13" Column="4" />
+      <File FileName="Assets\Pranshu Scripts\Music_Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Pranshu Scripts\Time_Manager.cs" Line="18" Column="32" />
+      <File FileName="Assets\Pranshu Scripts\Platform_Rotate_sin_End.cs" Line="17" Column="18" />
+      <File FileName="Assets\Pranshu Scripts\Distance_Tracker.cs" Line="25" Column="4" />
+      <File FileName="Assets\Pranshu Scripts\Highscore_Manager.cs" Line="13" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

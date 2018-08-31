@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Pranshu Scenes/BGJ_Main_Menu.unity
+  isLoaded: 1
+  isActive: 1
